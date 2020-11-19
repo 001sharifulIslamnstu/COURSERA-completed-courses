@@ -1,4 +1,4 @@
 # COURSERA-completed-courses
 
-##Deep learning course: 
-https://coursera.org/share/606a400455930cd8f53ca11f7be98932
+#Deep learning Specialization pacourse: 
+https://www.coursera.org/account/accomplishments/specialization/certificate/KTQLWEEUWNUY
